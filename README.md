@@ -1,2 +1,2 @@
 # SQLite_projects
-European Soccer Database for data analysis Using SQLite,
+- In this report, I will work on some SQLite projects and go deep into SQL.
