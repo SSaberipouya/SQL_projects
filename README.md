@@ -1,4 +1,4 @@
-#[SQLite](https://www.sqlite.org/index.html)
+[SQLite Home Page](https://www.sqlite.org/index.html)
 
 ![SQLite](SQLite.png)
 
