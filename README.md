@@ -1,5 +1,3 @@
-[SQLite Home Page](https://www.sqlite.org/index.html)
-
 ![SQL](SQL.png)
 
 🔍 **Demystifying SQL: Your Guide to a Powerful Database Language**
@@ -22,6 +20,11 @@ SQL is a versatile tool. You can use it to build small apps or large-scale syste
 
 🚀 **Your SQL Adventure Awaits!**
 So, fellow coders, don't be intimidated by SQL's fancy name. It's your ally in the world of data. Get ready to explore its magic, and you'll soon discover how it can simplify your data-handling tasks.
+
+# Essential Resources: A Compilation of Useful Links
+
+You can learn SQL from this tutorial: [SQL Tutorial](https://www.w3schools.com/sql/).
+[SQL Tutorial](https://www.w3schools.com/sql/)
 
 🔗 **Stay tuned for more SQL adventures as we dive into exciting projects that showcase the limitless possibilities of this fantastic tool!**
 
