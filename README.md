@@ -22,9 +22,10 @@ SQL is a versatile tool. You can use it to build small apps or large-scale syste
 So, fellow coders, don't be intimidated by SQL's fancy name. It's your ally in the world of data. Get ready to explore its magic, and you'll soon discover how it can simplify your data-handling tasks.
 
 # Essential Resources: A Compilation of Useful Links
+- If you're interested in delving deeper into the various data types in SQL Server, I recommend visiting the official Microsoft documentation page. You can find comprehensive information on this topic by following this link: [Microsoft SQL Server Data Types](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15). This resource will provide you with a wealth of knowledge and insights into the different data types available in SQL Server.
+  
+- So, fellow coders, don’t be intimidated by SQL’s fancy name. It’s your ally in the world of data. Get ready to explore its magic, and you’ll soon discover how it can simplify your data-handling tasks. Therefore, if you’re looking to learn SQL or enhance your existing knowledge, the following resource is a great place to start: SQL Tutorial by W3Schools.: [SQL Tutorial](https://www.w3schools.com/sql/).
 
-You can learn SQL from this tutorial: [SQL Tutorial](https://www.w3schools.com/sql/).
-[SQL Tutorial](https://www.w3schools.com/sql/)
 
 🔗 **Stay tuned for more SQL adventures as we dive into exciting projects that showcase the limitless possibilities of this fantastic tool!**
 
